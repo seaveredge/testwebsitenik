@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://chrisverhoek.com/testwebsite/al-folio/sitemap.xml
+Sitemap: https://seaveredge.github.io/testwebsitenik//sitemap.xml
