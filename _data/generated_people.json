@@ -1,0 +1,42 @@
+{
+  "phd": [
+    {
+      "name": "Chris",
+      "graduation_year": "2028",
+      "department": "ESE",
+      "coadvisor": "Siepie",
+      "now_working_at": "",
+      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+    }
+  ],
+  "postdoc": [
+    {
+      "name": "Chris",
+      "graduation_year": "2028",
+      "department": "ESE",
+      "coadvisor": "Siepie",
+      "now_working_at": "TU/e",
+      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+    }
+  ],
+  "master students": [
+    {
+      "name": "Chris",
+      "graduation_year": "2028",
+      "department": "ESE",
+      "coadvisor": "Siepie",
+      "now_working_at": "",
+      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+    }
+  ],
+  "undergraduates": [
+    {
+      "name": "Chris",
+      "graduation_year": "2028",
+      "department": "ESE",
+      "coadvisor": "Siepie",
+      "now_working_at": "",
+      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+    }
+  ]
+}
