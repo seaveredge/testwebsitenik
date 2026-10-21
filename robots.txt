@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://seaveredge.github.io/testwebsitenik//sitemap.xml
+Sitemap: https://seaveredge.github.io/sitemap.xml
