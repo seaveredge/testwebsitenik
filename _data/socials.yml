@@ -10,7 +10,8 @@ orcid_id: 2134
 x_username: NikolaiMatni
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://www.grasp.upenn.edu/wp-content/themes/grasp/assets/img/favicon/favicon-32x32.png # can be png, svg, jpg
-  title: UPenn page
-  url: https://www.grasp.upenn.edu/people/nikolai-matni/
+work_url: https://www.grasp.upenn.edu/people/nikolai-matni/
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://www.grasp.upenn.edu/wp-content/themes/grasp/assets/img/favicon/favicon-32x32.png # can be png, svg, jpg
+#   title: UPenn page
+#   url: https://www.grasp.upenn.edu/people/nikolai-matni/

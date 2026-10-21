@@ -28,6 +28,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  .social .contact-icons,
+  .social .contact-icons i {
+    font-size: 2rem !important;
+  }
+  .social .contact-icons a img,
+  .social .contact-icons a svg {
+    height: 2rem !important;
+    width: auto !important;
+  }
+</style>
+
 Associate Professor and Graduate Chair, Electrical and Systems Engineering
 Secondary appointment in Computer and Information Science
 Member of Applied Mathematics and Computational Sciences graduate group
