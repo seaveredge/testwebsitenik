@@ -1,42 +1,208 @@
 {
   "phd": [
     {
-      "name": "Chris",
-      "graduation_year": "2028",
-      "department": "ESE",
-      "coadvisor": "Siepie",
+      "name": "Bernadette Bucher",
+      "graduation_year": "2023",
+      "department": "Computer and Information Science",
+      "coadvisor": "Kostas Daniilidis",
+      "now_working_at": "Assistant Professor, Robotics Dept., University of Michigan (formerly RAI Senior Researcher)",
+      "picture": "/assets/img/people/phd-bernadette-bucher.png",
+      "website": "https://bucherb.github.io/",
+      "is_alumni": true,
+      "picture_source_url": "https://bucherb.github.io/images/Bucher.png"
+    },
+    {
+      "name": "Kendall Queen",
+      "graduation_year": "2023",
+      "department": "Electrical and Systems Engineering",
+      "coadvisor": "",
+      "now_working_at": "Asylon Robotics, Robotics Software Engineer",
+      "picture": "",
+      "website": "",
+      "is_alumni": true,
+      "picture_source_url": ""
+    },
+    {
+      "name": "Bruce Lee",
+      "graduation_year": "2025",
+      "department": "Electrical and Systems Engineering",
+      "coadvisor": "",
+      "now_working_at": "Postdoctoral Fellow at the ETH AI Center",
+      "picture": "/assets/img/people/phd-bruce-lee.jpg",
+      "website": "https://brucedlee.github.io",
+      "is_alumni": true,
+      "picture_source_url": "https://brucedlee.github.io/images/bruce.jpeg"
+    },
+    {
+      "name": "Thomas Zhang",
+      "graduation_year": "2026",
+      "department": "Electrical and Systems Engineering",
+      "coadvisor": "",
+      "now_working_at": "CBI Postdoc Fellow at CMU Machine Learning Department",
+      "picture": "/assets/img/people/phd-thomas-zhang.webp",
+      "website": "https://thomaszh3.github.io",
+      "is_alumni": true,
+      "picture_source_url": "https://thomaszh3.github.io/assets/img/prof_pic-480.webp"
+    },
+    {
+      "name": "Eliot Shekhtman",
+      "graduation_year": "2027",
+      "department": "Computer and Information Science",
+      "coadvisor": "",
       "now_working_at": "",
-      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+      "picture": "/assets/img/people/phd-eliot-shekhtman.jpg",
+      "website": "https://www.eliotshekhtman.com",
+      "is_alumni": false,
+      "picture_source_url": "https://www.eliotshekhtman.com/photos/square-headshot.jpg"
+    },
+    {
+      "name": "Kyle Horton",
+      "graduation_year": "2028",
+      "department": "Electrical and Systems Engineering",
+      "coadvisor": "George Pappas",
+      "now_working_at": "",
+      "picture": "",
+      "website": "",
+      "is_alumni": false,
+      "picture_source_url": ""
     }
   ],
   "postdoc": [
     {
-      "name": "Chris",
-      "graduation_year": "2028",
-      "department": "ESE",
-      "coadvisor": "Siepie",
-      "now_working_at": "TU/e",
-      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+      "name": "Ingvar Ziemann",
+      "graduation_year": "2022-2025",
+      "department": "Computer and Information Science",
+      "coadvisor": "",
+      "now_working_at": "Quantitative researcher at the Xantium Group",
+      "picture": "/assets/img/people/postdoc-ingvar-ziemann.png",
+      "website": "https://ingvarziemann.com",
+      "is_alumni": true,
+      "picture_source_url": "https://ingvarziemann.com/ingvar-min.png"
+    },
+    {
+      "name": "Chris Verhoek",
+      "graduation_year": "2025-2026",
+      "department": "Electrical and Systems Engineering",
+      "coadvisor": "",
+      "now_working_at": "",
+      "picture": "/assets/img/people/postdoc-chris-verhoek.jpg",
+      "website": "https://chrisverhoek.com",
+      "is_alumni": false,
+      "picture_source_url": "https://chrisverhoek.com/content/cvsquare.jpg"
+    },
+    {
+      "name": "David Snyder",
+      "graduation_year": "2025-2027",
+      "department": "Electrical and Systems Engineering",
+      "coadvisor": "George Pappas",
+      "now_working_at": "",
+      "picture": "",
+      "website": "https://sites.google.com/view/dasnyder",
+      "is_alumni": false,
+      "picture_source_url": "https://sites.google.com/u/0/sitesv-images-rt/AMxu72uxBkjUf5ie6JnV5trktqyKneGjTntp9pxXBXeyRasn0nLpb2N5SPhqTOgzVk4X6ja-FiqTmRQNmrorNVcbpvEiDl3ZLAAf7RQP3VrdDLNXzZpfrj3A_FvOL-DiaTx7G_AazphblUToVPHBHD7EqkTuSpxg2sfXIQvlMiy5eJkegHVnQIL_QH-uDgrSUjQsZ7TAaVG7Zx2AwK2bIscDz_gbQ46Lm6jSD0LL3z1G=w1280"
     }
   ],
   "master students": [
     {
-      "name": "Chris",
-      "graduation_year": "2028",
-      "department": "ESE",
-      "coadvisor": "Siepie",
-      "now_working_at": "",
-      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+      "name": "Hanli Zhang",
+      "graduation_year": "2023",
+      "department": "Electical and Systems Engineering",
+      "coadvisor": "",
+      "now_working_at": "PhD student at EPFL",
+      "picture": "",
+      "website": "https://people.epfl.ch/hanli.zhang",
+      "is_alumni": true,
+      "picture_source_url": ""
+    },
+    {
+      "name": "Bo Wu",
+      "graduation_year": "2024",
+      "department": "Robotics",
+      "coadvisor": "",
+      "now_working_at": "PediaMetrix Inc.",
+      "picture": "",
+      "website": "",
+      "is_alumni": true,
+      "picture_source_url": ""
+    },
+    {
+      "name": "Lejun Jiang",
+      "graduation_year": "2022",
+      "department": "Robotics",
+      "coadvisor": "",
+      "now_working_at": "Waymo Research Engineer",
+      "picture": "",
+      "website": "https://lejunjiang.com",
+      "is_alumni": true,
+      "picture_source_url": ""
     }
   ],
   "undergraduates": [
     {
-      "name": "Chris",
-      "graduation_year": "2028",
-      "department": "ESE",
-      "coadvisor": "Siepie",
+      "name": "Alok Shah",
+      "graduation_year": "2026",
+      "department": "Computer and Information Systems and Mathematics",
+      "coadvisor": "",
+      "now_working_at": "PhD student at MIT",
+      "picture": "/assets/img/people/undergraduates-alok-shah.jpg",
+      "website": "https://alokshah.org",
+      "is_alumni": true,
+      "picture_source_url": "https://alokshah.org/images/alokshah.jpg"
+    },
+    {
+      "name": "Vincent Zhang",
+      "graduation_year": "2025",
+      "department": "Computer and Information Systems and Mathematics",
+      "coadvisor": "",
       "now_working_at": "",
-      "picture": "https://chrisverhoek.com/content/cvsquare.jpg"
+      "picture": "",
+      "website": "",
+      "is_alumni": true,
+      "picture_source_url": ""
+    },
+    {
+      "name": "James Wang",
+      "graduation_year": "2025",
+      "department": "Computer and Information Systems",
+      "coadvisor": "",
+      "now_working_at": "",
+      "picture": "",
+      "website": "",
+      "is_alumni": true,
+      "picture_source_url": ""
+    },
+    {
+      "name": "John D'Ambrosio",
+      "graduation_year": "2025",
+      "department": "Mechanical Engineering and Applied Mechanics",
+      "coadvisor": "",
+      "now_working_at": "",
+      "picture": "",
+      "website": "",
+      "is_alumni": true,
+      "picture_source_url": ""
+    },
+    {
+      "name": "Brian (Wonbin) Lee",
+      "graduation_year": "2024",
+      "department": "Wharton and Robotics",
+      "coadvisor": "",
+      "now_working_at": "PhD student at UC Berkeley",
+      "picture": "",
+      "website": "",
+      "is_alumni": true,
+      "picture_source_url": ""
+    },
+    {
+      "name": "Daniel Pfrommer",
+      "graduation_year": "2022",
+      "department": "Computer and Information Science and Mathematics",
+      "coadvisor": "",
+      "now_working_at": "PhD student at MIT",
+      "picture": "",
+      "website": "https://dan.pfrommer.us",
+      "is_alumni": true,
+      "picture_source_url": ""
     }
   ]
 }
