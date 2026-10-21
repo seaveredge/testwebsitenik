@@ -6,6 +6,7 @@ description: Link to the Unstable Zeros GitHub page.
 nav: true
 nav_order: 6
 ---
+<!-- @Nik: No need to modify this. If you don't want the link to Unstable Zeros on your website, set 'nav: false' --> 
 <!--
 {% if site.data.repositories.github_users %}
 
