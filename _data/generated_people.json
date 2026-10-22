@@ -65,6 +65,17 @@
       "website": "",
       "is_alumni": false,
       "picture_source_url": ""
+    },
+    {
+      "name": "Fengjun Yang",
+      "graduation_year": "2026",
+      "department": "Electrical and Systems Engineering",
+      "coadvisor": "",
+      "now_working_at": "Control Engineer at Dyna Robotics",
+      "picture": "/assets/img/people/phd-fengjun-yang.jpg",
+      "website": "https://fjyang96.github.io",
+      "is_alumni": true,
+      "picture_source_url": "https://fjyang96.github.io/assets/selfie.jpg"
     }
   ],
   "postdoc": [

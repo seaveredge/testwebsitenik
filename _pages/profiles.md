@@ -54,7 +54,6 @@ nav_order: 3
   }
 </style>
 
-
 {% assign people_sections = "phd|PhD students,postdoc|Postdoctoral researchers,master students|Master's students,undergraduates|Undergraduate students" | split: "," %}
 <div class="people-list">
 {% for section in people_sections %}
@@ -65,10 +64,8 @@ nav_order: 3
   {% assign current_people = people | where_exp: "person", "person.is_alumni == false" %}
   {% assign alumni = people | where_exp: "person", "person.is_alumni == true" %}
 
-
-
-<h2>{{ heading }}</h2>
-
+  <h2>{{ heading }}</h2>
+  
   {% if current_people.size > 0 %}
     <h4 style="margin-left: 50px;">Current members</h4>
     {% for person in current_people %}
@@ -95,7 +92,7 @@ nav_order: 3
   {% else %}
     <p  style="margin-left: 50px;"><em>No current members listed.</em></p>
   {% endif %}
-
+  
   {% if alumni.size > 0 %}
     <h4 style="margin-left: 50px;">Alumni</h4>
     {% for person in alumni %}
