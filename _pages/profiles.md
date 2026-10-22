@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+<!-- Do not modify anything below here, unless you know what you're doing... -->
+
 <style>
   .people-list {
     margin-left: 0px;
